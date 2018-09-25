@@ -2,11 +2,11 @@
 	box-sizing: border-box;
 }
 
-html, body {
-	margin: 0;
+html, body {margin: 0;text-align: center
 }
 
 header, footer {
+	color:white; background-color:purple;min-height: 200px; max-width:660px; margin:20px auto; border-style:solid; border-width:3px; 
 
 }
 
@@ -14,11 +14,11 @@ header, footer {
 
 }
 
-header .subtitle {
+header .subtitle {font-family: 'Oswald', sans-serif;text-indent: 100px;
 
 }
 
-h1 {
+h1 {text-transform: uppercase; font-family: 'Oswald', sans-serif;text-indent: 100px;
 
 }
 
@@ -32,18 +32,19 @@ ul li {
 }
 
 main {
+	font-family: 'Oswald', sans-serif, max-width:0px margin:auto; border-style:solid; border-width:3px; border-color: purple 
 
 }
 
-section {
+section {text-align: center
 
 }
 
-h2 {
+h2 {color:purple;
 
 }
 
-h3 {
+h3 {color:purple;
 
 }
 
@@ -63,6 +64,5 @@ p {
 	content: " | ";
 }
 
-footer h2 {
-
+footer h1 {font-family: 'Oswald', sans-serif;text-indent: 200px;margin: 0;margin: auto;
 }
